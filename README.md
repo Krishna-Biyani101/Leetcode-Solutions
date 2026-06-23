@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
