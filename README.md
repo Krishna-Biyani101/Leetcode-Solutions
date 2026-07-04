@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+## Matrix
+|  |
+| ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
