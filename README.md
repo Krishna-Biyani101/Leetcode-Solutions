@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 ## Sorting
 |  |
 | ------- |
