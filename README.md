@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
 |  |
 | ------- |
