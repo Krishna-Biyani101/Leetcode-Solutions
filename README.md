@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0040-combination-sum-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
