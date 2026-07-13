@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Binary Search
 |  |
 | ------- |
