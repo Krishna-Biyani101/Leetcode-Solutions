@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3290-maximum-multiplication-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3290-maximum-multiplication-score) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
+| [3290-maximum-multiplication-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3290-maximum-multiplication-score) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
