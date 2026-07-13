@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -222,12 +224,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 ## Backtracking
 |  |
 | ------- |
