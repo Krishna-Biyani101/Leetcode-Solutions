@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -165,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
