@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1395-count-number-of-teams](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1395-count-number-of-teams) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1395-count-number-of-teams](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1395-count-number-of-teams) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
@@ -302,10 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
