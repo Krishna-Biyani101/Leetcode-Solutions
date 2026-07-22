@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
