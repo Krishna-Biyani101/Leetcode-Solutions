@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3290-maximum-multiplication-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3290-maximum-multiplication-score) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1395-count-number-of-teams) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
