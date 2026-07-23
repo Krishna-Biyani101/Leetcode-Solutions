@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0184-department-highest-salary) |
+| [0550-game-play-analysis-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0585-investments-in-2016) |
 ## Hash Table
 |  |
