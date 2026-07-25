@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
