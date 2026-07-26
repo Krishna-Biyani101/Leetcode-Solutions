@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0518-coin-change-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1518-water-bottles](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
