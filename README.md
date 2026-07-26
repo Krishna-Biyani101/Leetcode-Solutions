@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
