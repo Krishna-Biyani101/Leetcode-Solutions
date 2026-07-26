@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2105-watering-plants-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2105-watering-plants-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2429-minimize-xor](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2429-minimize-xor) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
