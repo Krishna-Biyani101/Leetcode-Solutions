@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Binary Tree
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
