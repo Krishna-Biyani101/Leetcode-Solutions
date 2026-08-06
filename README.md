@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
