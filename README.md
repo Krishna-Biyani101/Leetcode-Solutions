@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -462,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
