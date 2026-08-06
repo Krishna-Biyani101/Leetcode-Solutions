@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2429-minimize-xor](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2429-minimize-xor) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 ## Linked List
 |  |
 | ------- |
@@ -431,11 +437,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 ## Nim Game
 |  |
 | ------- |
