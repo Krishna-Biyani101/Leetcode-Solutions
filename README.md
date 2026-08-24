@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2079-watering-plants](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2079-watering-plants) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -469,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
