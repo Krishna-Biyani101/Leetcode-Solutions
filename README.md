@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2560-house-robber-iv) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3290-maximum-multiplication-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3290-maximum-multiplication-score) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Indexed Tree
 |  |
