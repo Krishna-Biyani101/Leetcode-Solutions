@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-minimize-xor](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2429-minimize-xor) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bitmask
 |  |
 | ------- |
