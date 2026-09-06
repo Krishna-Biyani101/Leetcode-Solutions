@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
