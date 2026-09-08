@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
