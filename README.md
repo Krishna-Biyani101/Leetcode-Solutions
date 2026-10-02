@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0399-evaluate-division](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0399-evaluate-division) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -550,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
