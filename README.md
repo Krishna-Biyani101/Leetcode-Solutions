@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
@@ -556,5 +558,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Krishna-Biyani101/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
